@@ -1,3 +1,8 @@
+Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies include:
+* Writing messy code
+* Losing interest and abandoning projects
+* Pretending to be good at programming
+
 **email** -> evanwarnerlee@gmail.com
 
 **website** -> [evan-w-lee.github.io](evan-w-lee.github.io)
