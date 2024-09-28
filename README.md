@@ -5,7 +5,7 @@ Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies includ
 
 **email** -> evanwarnerlee@gmail.com
 
-**website** -> [evan-w-lee.github.io](evan-w-lee.github.io)
+**website** -> [https://evan-w-lee.github.io](https://evan-w-lee.github.io)
 
 I also have a blog but it disappeared in a hole somewhere
 <!---
