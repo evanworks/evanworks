@@ -7,6 +7,8 @@ Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies includ
 
 **website** -> [evan-w-lee.github.io](https://evan-w-lee.github.io)
 
+**tumblr** -> [tumblr.com/evanworks](https://tumblr.com/evanworks)
+
 I also have a blog but it disappeared in a hole somewhere
 <!---
 evan-w-lee/evan-w-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
