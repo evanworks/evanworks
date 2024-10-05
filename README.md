@@ -9,6 +9,7 @@ Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies includ
 
 I also have a blog but it disappeared in a hole somewhere
 
+<b>languages/tools</b>
 <img src="languages tools.png" style="width: 200px;">
 <!---
 evan-w-lee/evan-w-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
