@@ -7,7 +7,7 @@ Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies includ
 
 **website** -> [evanworks.github.io](https://evanworks.github.io)
 
-**tumblr** -> [tumblr.com/evanworks](https://tumblr.com/evanworks)
+**youtube** -> [youtube.com/evan-works](https://youtube.com/@evan-works)
 
 I also have a blog but it disappeared in a hole somewhere
 <!---
