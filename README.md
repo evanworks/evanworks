@@ -1,4 +1,4 @@
-Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies include:
+Hi, I'm Evan. I've made a couple things. My hobbies include:
 * Writing messy code
 * Losing interest and abandoning projects
 * Pretending to be good at programming
@@ -7,7 +7,7 @@ Hello, I'm Evan. I've made a couple things, pinned down below. My hobbies includ
 
 **website** -> [evanworks.github.io](https://evanworks.github.io)
 
-**youtube** -> [youtube.com/evan-works](https://youtube.com/@evan-works)
+**youtube** -> [youtube.com/@evan-works](https://youtube.com/@evan-works)
 
 I also have a blog but it disappeared in a hole somewhere
 <!---
